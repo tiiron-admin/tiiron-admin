@@ -1,9 +1,7 @@
-<p align="center">
- <h2>Tiiron — AI-Powered Lms & Software Company</h2>
- <h1>We helps educators teach better and learners practice smarter.</h1>
-</p>
-
----
+<h2 align="center">
+Tiiron — AI-Powered Lms & Software Company
+We helps educators teach better and learners practice smarter.
+</h2>
 
 ### About Us
 <p align="left">
@@ -19,8 +17,8 @@ We work across modern web, cloud, and AI ecosystems — delivering enterprise-gr
 
 <p align="left">
 
-<a href="https://www.tiiron.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> 
+<a href="https://www.tiiron.com/" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/535/535239.png" height="30" width="30" alt="Website" style="background:#1f1f1f;border-radius:6px;padding:4px;" />
 </a>
 
 <a href="https://www.linkedin.com/company/tiiron" target="blank">
@@ -82,7 +80,7 @@ We work across modern web, cloud, and AI ecosystems — delivering enterprise-gr
 </a>
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/express/000000" width="40" height="40" alt="express"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" style="background:#202124;border-radius:6px;padding:4px;" alt="express"/>
 </a>
 
 </p>
