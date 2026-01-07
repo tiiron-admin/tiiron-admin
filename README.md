@@ -1,16 +1,19 @@
-<h3 align="center">Tiiron — AI-Powered Learning & Software Products Company</h3>
+<h1 align="center">Tiiron — AI-Powered Lms & Software Products Company</h1>
+<h3 align="center">We helps educators teach better and learners practice smarter.</h3>
 
-<p align="center">
-AI-powered LMS that helps educators teach better and learners practice smarter. <br />
+---
+
+### 🧑‍💻 About Us
+<p align="left">
 Building intelligent learning platforms and scalable digital products.<br/>
-Engineering reliable, secure, and future-ready software solutions.
+We work across modern web, cloud, and AI ecosystems — delivering enterprise-grade SaaS platforms and digital learning systems.
 </p>
 
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=tiiron-admin&label=Profile%20views&color=0e75b6&style=flat" alt="tiiron-admin" />
 </p>
 
-<h3 align="left">Connect with us:</h3>
+### Connect With Us:
 
 <p align="left">
 
@@ -37,12 +40,7 @@ Engineering reliable, secure, and future-ready software solutions.
 
 </p>
 
-<h3 align="left">Technology Focus:</h3>
-<p align="left">
-We work across modern web, cloud, and AI ecosystems — delivering enterprise-grade SaaS platforms and digital learning systems.
-</p>
-
-<h3 align="left">Languages & Tools:</h3>
+### Languages & Tools:
 
 <p align="left">
 
@@ -56,11 +54,6 @@ We work across modern web, cloud, and AI ecosystems — delivering enterprise-gr
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-</a>
-
-<!-- Fixed Express Icon -->
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/express/000000" width="40" height="40" alt="express"/>
 </a>
 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -87,8 +80,12 @@ We work across modern web, cloud, and AI ecosystems — delivering enterprise-gr
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
 </a>
 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/express/000000" width="40" height="40" alt="express"/>
+</a>
+
 </p>
 
-<p align="center">
+<p align="left">
 Learn better, work smarter & move faster - With Tiiron! 🚀
 </p>
