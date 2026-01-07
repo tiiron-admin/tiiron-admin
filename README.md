@@ -1,9 +1,9 @@
-<h1 align="center">Tiiron — AI-Powered Lms & Software Products Company</h1>
-<h3 align="center">We helps educators teach better and learners practice smarter.</h3>
+<h1 align="center">Tiiron — AI-Powered Lms & Software Company</h1>
+<h2 align="center">We helps educators teach better and learners practice smarter.</h2>
 
 ---
 
-### 🧑‍💻 About Us
+### About Us
 <p align="left">
 Building intelligent learning platforms and scalable digital products.<br/>
 We work across modern web, cloud, and AI ecosystems — delivering enterprise-grade SaaS platforms and digital learning systems.
@@ -17,17 +17,16 @@ We work across modern web, cloud, and AI ecosystems — delivering enterprise-gr
 
 <p align="left">
 
-<!-- Website / Globe Icon -->
-<a href="https://www.tiiron.com/" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/535/535239.png" height="30" width="30" alt="Website"/>
-</a>
-
-<a href="https://twitter.com/hrtiiron" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+<a href="https://www.tiiron.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> 
 </a>
 
 <a href="https://www.linkedin.com/company/tiiron" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://twitter.com/hrtiiron" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
 
 <a href="https://www.facebook.com/share/1exdgdjxyr/" target="blank">
