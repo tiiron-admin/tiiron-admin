@@ -1,5 +1,5 @@
 <h2 align="center">
-Tiiron — AI-Powered Lms & Software Company
+Tiiron — AI-Powered Lms & Software Company <br />
 We helps educators teach better and learners practice smarter.
 </h2>
 
