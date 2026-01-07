@@ -3,14 +3,14 @@ Tiiron — AI-Powered Lms & Software Company <br />
 We helps educators teach better and learners practice smarter.
 </h2>
 
+<p align="left">
+ <img src="https://komarev.com/ghpvc/?username=tiiron-admin&label=Profile%20views&color=0e75b6&style=flat" alt="tiiron-admin" />
+</p>
+
 ### About Us
 <p align="left">
 Building intelligent learning platforms and scalable digital products.<br/>
 We work across modern web, cloud, and AI ecosystems — delivering enterprise-grade SaaS platforms and digital learning systems.
-</p>
-
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=tiiron-admin&label=Profile%20views&color=0e75b6&style=flat" alt="tiiron-admin" />
 </p>
 
 ### Connect With Us:
